@@ -14,6 +14,7 @@ const n = arr.length;
 
 // console.log(arr);
 
+// recursive sort
 function insertionSort(arr, n) {
   outerFunction(arr, n, n - 2);
 }
